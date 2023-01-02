@@ -1,0 +1,25 @@
+C:\Users\User8\source\repos\Ornek\Ornek\bin\Debug\Ornek.exe.config
+C:\Users\User8\source\repos\Ornek\Ornek\bin\Debug\Ornek.exe
+C:\Users\User8\source\repos\Ornek\Ornek\bin\Debug\Ornek.pdb
+C:\Users\User8\source\repos\Ornek\Ornek\obj\Debug\Ornek.csproj.AssemblyReference.cache
+C:\Users\User8\source\repos\Ornek\Ornek\obj\Debug\Ornek.Properties.Resources.resources
+C:\Users\User8\source\repos\Ornek\Ornek\obj\Debug\Ornek.csproj.GenerateResource.cache
+C:\Users\User8\source\repos\Ornek\Ornek\obj\Debug\Ornek.csproj.CoreCompileInputs.cache
+C:\Users\User8\source\repos\Ornek\Ornek\obj\Debug\Ornek.exe
+C:\Users\User8\source\repos\Ornek\Ornek\obj\Debug\Ornek.pdb
+C:\Users\User8\source\repos\Ornek\Ornek\bin\Debug\Database1.mdf
+C:\Users\User8\source\repos\Ornek\Ornek\bin\Debug\Database1_log.ldf
+C:\Users\User8\source\repos\Ornek\Ornek\obj\Debug\Ornek.Form1.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\bin\Debug\Database1.mdf
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\bin\Debug\Database1_log.ldf
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\bin\Debug\Ornek.exe.config
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\bin\Debug\Ornek.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\bin\Debug\Ornek.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\obj\Debug\Ornek.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\obj\Debug\Ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\obj\Debug\Ornek.Form1.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\obj\Debug\Ornek.Properties.Resources.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\obj\Debug\Ornek.csproj.GenerateResource.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\obj\Debug\Ornek.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\obj\Debug\Ornek.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\FİNAL\Ornek\obj\Debug\Ornek.pdb
